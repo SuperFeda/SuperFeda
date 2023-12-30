@@ -1,6 +1,6 @@
-<style>@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');</style>
+<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
 
-<p align="center"><span style="color:#fff; font-family: 'Nunito'; font-size: 35px">SuperFeda</span></p>
+<!--<p align="center"><span style="color:#fff; font-family: 'Nunito'; font-size: 35px">SuperFeda</span></p>-->
 <span style="color:#fff; font-family: 'Nunito'; font-size: 17px">Im SuperFeda, im the owner of SkylightProduction, Russian genius of print("hello world") and doctor of Minecraft science.</span>
 
 ---
