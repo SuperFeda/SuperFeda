@@ -8,7 +8,7 @@
 
 [![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord&theme=dark)](https://skillicons.dev/)
 
-<span style="color:#fff; font-family: 'Nunito'; font-size: 17px">Later i try add this skills to list of my skills:</span>
+<span style="color:#fff; font-family: 'Nunito'; font-size: 17px">Later I will try to add these skills to my list of skills:</span>
 
 [![my_skills](https://skillicons.dev/icons?i=cpp,java,ts,html,css,blender,unreal,linux&theme=dark)](https://skillicons.dev/)
 
