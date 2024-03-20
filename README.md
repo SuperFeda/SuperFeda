@@ -1,14 +1,20 @@
+# About me:
 Im SuperFeda, im the owner of SkylightProduction, Russian genius of `print("hello world")` and doctor of Minecraft science.
 
----
-
-My Skills:
+# My Skills:
 
 [![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord&theme=dark)](https://skillicons.dev/)
 
-Later I will try to add these skills to my list of skills:
+### Later I will try to add these skills to my list of skills:
 
 [![my_skills](https://skillicons.dev/icons?i=cpp,java,ts,html,css,blender,unreal,linux&theme=dark)](https://skillicons.dev/)
+
+# GitHub stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=superfeda&show_icons=true&theme=dark&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&theme=dark">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&layout=compact&theme=dark"> - Компактная версия для статы ипользования ЯПов -->
+</p>
 
 <!--<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
 
