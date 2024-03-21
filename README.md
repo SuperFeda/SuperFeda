@@ -12,7 +12,7 @@ Im SuperFeda, im the owner of SkylightProduction, Russian genius of `print("hell
 # GitHub stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=superfeda&show_icons=true&theme=dark&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&theme=dark&layaut=compact">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&layout=compact&theme=dark"> - Компактная версия для статы ипользования ЯПов -->
 </p>
 
