@@ -3,7 +3,7 @@ Im SuperFeda, im the owner of SkylightProduction, Russian genius of `print("hell
 
 # My Skills:
 
-[![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord,md&theme=dark)](https://skillicons.dev/)
 
 ### Later I will try to add these skills to my list of skills:
 
