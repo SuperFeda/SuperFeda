@@ -7,7 +7,7 @@ Im SuperFeda, im the owner of SkylightProduction, Russian genius of `print("hell
 
 ### Later I will try to add these skills to my list of skills:
 
-[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,html,css,blender,linux&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,js,html,css,blender,linux&theme=dark)](https://skillicons.dev/)
 
 # GitHub stats:
 <p align="center">
