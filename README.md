@@ -1,11 +1,11 @@
 # About me:
 Im SuperFeda, im the owner of SkylightProduction, Russian genius of `print("hello world")` and doctor of Minecraft science.
 
-[![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord,md&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord,md,html,css&theme=dark)](https://skillicons.dev/)
 
 ### Later I will try to add these skills to my list of skills:
 
-[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,js,html,css,blender&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,js&theme=dark)](https://skillicons.dev/)
 
 ---
 
