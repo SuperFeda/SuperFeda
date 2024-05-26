@@ -1,5 +1,5 @@
 # About me:
-Im SuperFeda, im the owner of SkylightProduction, Russian genius of `print("hello world")` and doctor of Minecraft science.
+Im SuperFeda, im Python developer, Doctor of Sciences Minecraft, PhD GTA V, founder and ex owner of SkylightProduction, master of sports in reinstalling Windows and world record holder for drunk bottles of Coca-Cola
 
 [![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord,md,html,css&theme=dark)](https://skillicons.dev/)
 
