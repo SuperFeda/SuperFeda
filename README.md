@@ -5,7 +5,7 @@ Im SuperFeda, im Python developer, Doctor of Sciences Minecraft, PhD GTA V, foun
 
 ### Later I will try to add these skills to my list of skills:
 
-[![my_skills](https://skillicons.dev/icons?i=cpp,c,ts,js,tauri&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,js,tauri,react&theme=dark)](https://skillicons.dev/)
 
 ---
 
