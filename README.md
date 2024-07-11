@@ -1,11 +1,11 @@
 # About me:
-Im SuperFeda, im Python developer, Doctor of Sciences Minecraft, PhD GTA V, founder and ex owner of SkylightProduction, master of sports in reinstalling Windows and world record holder for drunk bottles of Coca-Cola
+Im SuperFeda, im Python developer, Doctor of Sciences Minecraft, PhD GTA V, founder of SkylightProduction, master of sports in reinstalling Windows and world record holder for drunk bottles of Coca-Cola
 
-[![my_skills](https://skillicons.dev/icons?i=python,html,css&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev/)
 
 ### Later I will try to add these skills to my list of skills:
 
-[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,js,tauri,react&theme=dark)](https://skillicons.dev/)
+[![my_skills](https://skillicons.dev/icons?i=cpp,c,java,ts,tauri,react&theme=dark)](https://skillicons.dev/)
 
 ---
 
