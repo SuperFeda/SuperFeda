@@ -1,24 +1,9 @@
 # About me:
 Im SuperFeda, im Python developer, Doctor of Sciences Minecraft, PhD GTA V, founder of SkylightProduction, master of sports in reinstalling Windows and world record holder for drunk bottles of Coca-Cola
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,html,css,scss,nodejs,js&theme=dark)
-
-### Later I will try to add these skills to my list of skills:
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,ts,tauri,react&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,sqlalchemy,aiogram,html,css,scss,nodejs,js,ts,react&theme=dark)
 
 ---
-
-<details>
-<summary>GitHub Stats:</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superfeda&show_icons=true&theme=dark&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&theme=dark&layout=compact">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&layout=compact&theme=dark"> - Компактная версия для статы ипользования ЯПов -->
-</p>
-
-</details>
 
 <!--<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
 
